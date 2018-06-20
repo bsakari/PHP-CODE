@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"e",
+				"eMail"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"c",
+				"connect"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"ex",
+				"extract"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"nam",
+				"name_value"
+			],
+			[
+				"arr",
+				"arrayleng"
+			],
+			[
+				"ca",
+				"cars"
+			],
+			[
+				"cal",
+				"calc"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"em",
+				"eMobilis"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"nu",
+				"number_2"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ite",
+				"itemName"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"lo",
+				"logged"
+			],
+			[
+				"no",
+				"now"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"use",
+				"user_check_query"
+			],
+			[
+				"pas",
+				"password_2"
+			],
+			[
+				"passw",
+				"password_1"
+			],
+			[
+				"Pass",
+				"password_1"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"chec",
+				"user_check_query"
+			],
+			[
+				"arra",
+				"arra_push"
+			],
+			[
+				"pa",
+				"password_1"
+			],
+			[
+				"headr",
+				"header"
+			],
+			[
+				"paswo",
+				"password_1"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			],
+			[
+				"incude",
+				"get_include_path"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"rea",
+				"readfile"
+			],
+			[
+				"fonst",
+				"font-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fn",
+				"fname"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"txt",
+				"txt2"
+			],
+			[
+				"ages",
+				"ages_value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"pr",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/img"
+	],
+	"file_history":
+	[
+		"/home/kingwanyama/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kingwanyama/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/crud/saveUser.php",
+		"/opt/lampp/htdocs/saturday_registration/saturday_class.sql",
+		"/opt/lampp/htdocs/crud/users.php",
+		"/opt/lampp/htdocs/crud/userSaveProcess.php",
+		"/opt/lampp/htdocs/crud/updateProcess.php",
+		"/opt/lampp/htdocs/crud/update.php",
+		"/opt/lampp/htdocs/crud/delete.php",
+		"/etc/environment",
+		"/home/kingwanyama/Desktop/riinya.php",
+		"/home/kingwanyama/Desktop/New Sat Class/fb.html",
+		"/home/kingwanyama/Documents/pythonWeb/python.html",
+		"/home/kingwanyama/Desktop/Studiz/bsakari.github.io/index.html",
+		"/opt/lampp/htdocs/saturday_registration/saveUser.php",
+		"/opt/lampp/htdocs/saturday_registration/userSaveProcess.php",
+		"/opt/lampp/htdocs/php_systems/betting_system.php",
+		"/opt/lampp/htdocs/php_systems/bet_process.php",
+		"/opt/lampp/htdocs/php_systems/interest.php",
+		"/opt/lampp/htdocs/php_systems/interest_calculate.php",
+		"/opt/lampp/htdocs/registration/register.php",
+		"/opt/lampp/htdocs/registration/server.php",
+		"/opt/lampp/htdocs/registration/login.php",
+		"/opt/lampp/htdocs/registration/index.php",
+		"/opt/lampp/htdocs/registration/errors.php",
+		"/opt/lampp/htdocs/PhpDayOne/functions.php",
+		"/opt/lampp/htdocs/PhpDayOne/functions2.php",
+		"/opt/lampp/htdocs/PhpDayOne/arrays.php",
+		"/opt/lampp/htdocs/PhpDayOne/arrayechoing.php",
+		"/opt/lampp/htdocs/PhpDayOne/associative.php",
+		"/opt/lampp/htdocs/PhpDayOne/array_sorting.php",
+		"/opt/lampp/htdocs/PhpDayOne/array_sorting2.php",
+		"/opt/lampp/htdocs/PhpDayOne/student_grading.php",
+		"/opt/lampp/htdocs/PhpDayOne/ifelseif.php",
+		"/opt/lampp/htdocs/PhpDayOne/switch.php",
+		"/opt/lampp/htdocs/PhpDayOne/loops.php",
+		"/opt/lampp/htdocs/ios_php/account.php",
+		"/opt/lampp/htdocs/ios_php/loginProcess.php",
+		"/home/kingwanyama/Desktop/New Sat Class/gallery.html",
+		"/opt/lampp/htdocs/ios_php/index.html",
+		"/home/kingwanyama/Desktop/New Sat Class/home.html",
+		"/opt/lampp/htdocs/PhpDayOne/DayOne.php",
+		"/opt/lampp/htdocs/PhpDayOne/arithmetic.php",
+		"/opt/lampp/htdocs/PhpDayOne/datatypes.php",
+		"/usr/share/applications/sublime_text.desktop",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/bootstrap/css/custom.css",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/Grid2.html",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/BootstrapGrid.html",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/boot1.html",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/BootatrapGrid.html",
+		"/home/kingwanyama/Documents/SaturdayBootstrap/BootatrapGrid",
+		"/home/kingwanyama/Desktop/New Sat Class/cat.html",
+		"/opt/lampp/htdocs/VernonskiCat/loginproccess.php",
+		"/opt/lampp/htdocs/VernonskiCat/login.php",
+		"/opt/lampp/htdocs/VernonskiCat/Buy.php",
+		"/opt/lampp/htdocs/VernonskiCat/sell.php",
+		"/opt/lampp/htdocs/VernonskiCat/Addgoodsproccess.php",
+		"/opt/lampp/htdocs/VernonskiCat/Buygoodsproccess.php",
+		"/home/kingwanyama/Desktop/New Sat Class/style.css",
+		"/home/kingwanyama/Desktop/New Sat Class/divisions.html",
+		"/home/kingwanyama/Desktop/New Sat Class/forms.html",
+		"/home/kingwanyama/Desktop/New Sat Class/registration.html",
+		"/opt/lampp/htdocs/storeManagement/addStock.php",
+		"/opt/lampp/htdocs/storeManagement/sellProduct.php",
+		"/opt/lampp/htdocs/storeManagement/sell.php",
+		"/opt/lampp/htdocs/storeManagement/stock.php",
+		"/opt/lampp/htdocs/storeManagement/index.php",
+		"/opt/lampp/htdocs/kappaRegistration/loginProcess.php",
+		"/opt/lampp/htdocs/kappaRegistration/index.php",
+		"/opt/lampp/htdocs/alphaRegistration/errors.php",
+		"/opt/lampp/htdocs/alphaRegistration/login.php",
+		"/opt/lampp/htdocs/alphaRegistration/register.php",
+		"/opt/lampp/htdocs/alphaRegistration/index.php",
+		"/opt/lampp/htdocs/alphaRegistration/loginProcess.php",
+		"/opt/lampp/htdocs/deltaRegistration/index.php",
+		"/opt/lampp/htdocs/deltaRegistration/login.php",
+		"/opt/lampp/htdocs/deltaRegistration/register.php",
+		"/opt/lampp/htdocs/deltaRegistration/errors.php",
+		"/opt/lampp/htdocs/deltaRegistration/loginProcess.php",
+		"/opt/lampp/htdocs/kappaRegistration/errors.php",
+		"/opt/lampp/htdocs/kappaRegistration/login.php",
+		"/opt/lampp/htdocs/kappaRegistration/register.php",
+		"/opt/lampp/htdocs/crudVernonski/UpdateUserProccess.php",
+		"/opt/lampp/htdocs/crudVernonski/update.php",
+		"/opt/lampp/htdocs/crudVernonski/saveUserProccess.php",
+		"/opt/lampp/htdocs/crudVernonski/saveUser.php",
+		"/opt/lampp/htdocs/crudVernonski/fetchUser.php",
+		"/opt/lampp/htdocs/crudVernonski/delete.php",
+		"/opt/lampp/htdocs/kod/fetch.php",
+		"/opt/lampp/htdocs/kappaRegistration/registration_login.php",
+		"/opt/lampp/htdocs/kod/dbcon.php",
+		"/opt/lampp/htdocs/kod/login.php",
+		"/home/kingwanyama/Desktop/NewClass/sato.html",
+		"/home/kingwanyama/Desktop/NewClass/index.html",
+		"/home/kingwanyama/Downloads/userSave.sql",
+		"/home/kingwanyama/Downloads/travelMate.sql",
+		"/opt/lampp/htdocs/crudClassDelta/delete.php",
+		"/opt/lampp/htdocs/crudClassDelta/fetchUser.php",
+		"/opt/lampp/htdocs/crudClassDelta/saveUserProcess.php",
+		"/opt/lampp/htdocs/crudClassDelta/saveUser.php",
+		"/opt/lampp/htdocs/phpClassDelta/loginProcess.php",
+		"/opt/lampp/htdocs/phpClassDelta/userProcessed.php",
+		"/opt/lampp/htdocs/phpClassDelta/login.php",
+		"/opt/lampp/htdocs/crudOperations/delete.php",
+		"/opt/lampp/htdocs/crudClassKappa/fetchUser.php",
+		"/opt/lampp/htdocs/crudClassKappa/delete.php",
+		"/opt/lampp/htdocs/crudClassKappa/userSaveProcess.php",
+		"/opt/lampp/htdocs/crudClassKappa/saveUser.php",
+		"/opt/lampp/htdocs/crudOperations/userFetch.php",
+		"/opt/lampp/htdocs/crudOperations/saveUser.php",
+		"/opt/lampp/htdocs/crudOperations/userSaveProcess.php",
+		"/opt/lampp/htdocs/phpClassKappa/delete.php",
+		"/opt/lampp/htdocs/phpClassKappa/users.php",
+		"/opt/lampp/htdocs/phpClassKappa/userSaveProcess.php",
+		"/opt/lampp/htdocs/phpClassKappa/saveUser.php",
+		"/opt/lampp/htdocs/phpClassAlpha/saveUserProcess.php",
+		"/opt/lampp/htdocs/phpClassAlpha/saveUser.php",
+		"/opt/lampp/htdocs/kod/loginprocess.php",
+		"/opt/lampp/htdocs/phpClassAlpha/condb.php",
+		"/opt/lampp/htdocs/phpClassKappa/conndb.php",
+		"/opt/lampp/htdocs/phpClassDelta/dbconnect.php",
+		"/home/kingwanyama/Desktop/New Sat Class/lists.html",
+		"/home/kingwanyama/Desktop/New Sat Class/tables.html",
+		"/opt/lampp/htdocs/sarafina/sarafina1.php",
+		"/opt/lampp/htdocs/sarafina/sarafina4.php",
+		"/opt/lampp/htdocs/sarafina/sarafina3.php",
+		"/opt/lampp/htdocs/sarafina/sarafina2.php",
+		"/opt/lampp/htdocs/phpClassKappa/fileUpload.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 126.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "delete.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
